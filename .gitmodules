@@ -1,0 +1,3 @@
+[submodule "picoled"]
+	path = picoled
+	url = https://github.com/ForsakenNGS/PicoLED.git
